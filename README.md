@@ -1,4 +1,4 @@
-# go_resto_v1
+# Game_store_project
 
 A new Flutter project.
 
